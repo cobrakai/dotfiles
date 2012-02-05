@@ -64,6 +64,7 @@ if exists("syntax_on")
 endif
 let g:colors_name="zenburn"
 
+
 hi Boolean         guifg=#dca3a3
 hi Character       guifg=#dca3a3 gui=bold
 hi Comment         guifg=#7f9f7f gui=italic

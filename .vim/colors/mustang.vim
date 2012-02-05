@@ -2,6 +2,7 @@
 " Version:      1.0
 " Last Change:	September 25 2008
 
+
 set background=dark
 
 hi clear

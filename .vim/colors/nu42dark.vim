@@ -3,6 +3,7 @@
 " Maintainer:   A. Sinan Unur <sinan@unur.com>
 " Last Change:  20111125
 
+
 set background=dark
 highlight clear
 let g:colors_name="nu42dark"

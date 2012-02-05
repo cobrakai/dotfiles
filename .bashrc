@@ -112,5 +112,5 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
 
-# RVM stuff for ruby env manager.
+# RVM stuff.
 [[ -s "/home/el/.rvm/scripts/rvm" ]] && source "/home/el/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*

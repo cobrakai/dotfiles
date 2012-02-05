@@ -3,6 +3,7 @@
 " Description: Vim color file
 " Last Modified: October 06, 2010
 
+
 " Initialization and Setup {{{1
 " ============================================================================
 set background=dark
